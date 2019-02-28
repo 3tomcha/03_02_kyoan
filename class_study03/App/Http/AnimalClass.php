@@ -1,5 +1,5 @@
 <?php
-namespace App\Http;
+
 class AnimalClass
 {
   // クラスの変数（プロパティ）

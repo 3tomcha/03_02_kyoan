@@ -2,8 +2,6 @@
 // 全てのクラスを読み込んで使う
 include 'auto_loader.php';
 
-use App\Http\AnimalClass;
-// $animal1 = new AnimalClass;
 $animal1 = new AnimalClass;
 // プロパティを出力する
 $animal1->animal; //cat
